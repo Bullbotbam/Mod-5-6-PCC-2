@@ -1,0 +1,19 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"dotenv": "^8.6.0",
+		"express": "^4.18.1",
+		"file-system": "^2.2.2"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}

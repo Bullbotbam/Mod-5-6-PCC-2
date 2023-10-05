@@ -1,0 +1,22 @@
+{
+	"name": "fcc-infosec-challenges",
+	"version": "0.0.1",
+	"description": "fcc backend boilerplate",
+	"main": "server.js",
+	"scripts": {
+		"start": "node myApp.js"
+	},
+	"dependencies": {
+		"express": "^4.18.1",
+		"file-system": "^2.2.2",
+		"helmet": "^2.3.0",
+		"path": "^0.12.7"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express",
+		"freecodecamp"
+	],
+	"license": "MIT"
+}
